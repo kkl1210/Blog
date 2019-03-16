@@ -32,6 +32,12 @@
 
 [深浅拷贝]
 
+## es6
+[箭头函数]
+[promise]
+[对象的扩展]
+[函数的扩展]
+
 ## VUE
 
 [生命周期相关]
@@ -42,6 +48,8 @@
 
 ## 网络
 [http相关]
+[cookie 和 session]
+[cookie seesionStorage localStorage]
 
 [跨域]
 
